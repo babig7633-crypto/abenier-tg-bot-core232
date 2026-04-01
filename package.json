@@ -1,0 +1,15 @@
+{
+  "name": "abenier-bot-logic",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Minimal local tooling for n8n workflow read and backup.",
+  "scripts": {
+    "n8n:get:test": "node scripts/n8n-get-workflow.mjs --test",
+    "n8n:get:prod": "node scripts/n8n-get-workflow.mjs --prod",
+    "n8n:backup:test": "node scripts/n8n-backup-workflow.mjs --test",
+    "n8n:backup:prod": "node scripts/n8n-backup-workflow.mjs --prod"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

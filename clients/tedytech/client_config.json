@@ -1,0 +1,7 @@
+{
+  "store_name": "TedyTech",
+  "default_language": "am",
+  "supports_exchange": true,
+  "supports_finance": false,
+  "telegram_bot_name": "TedyTech Bot"
+}
