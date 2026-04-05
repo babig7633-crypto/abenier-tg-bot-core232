@@ -568,7 +568,7 @@
       "main": [
         [
           {
-            "node": "callback-action-if",
+            "node": "Callback Action?",
             "type": "main",
             "index": 0
           }
@@ -579,7 +579,7 @@
       "main": [
         [
           {
-            "node": "callback-action-handler",
+            "node": "Callback Action Handler",
             "type": "main",
             "index": 0
           }
@@ -699,21 +699,21 @@
       "main": [
         [
           {
-            "node": "callback-telegram-send",
+            "node": "Callback Telegram Send",
             "type": "main",
             "index": 0
           }
         ],
         [
           {
-            "node": "callback-session-save",
+            "node": "Callback Session Save",
             "type": "main",
             "index": 0
           }
         ],
         [
           {
-            "node": "callback-admin-notify-if",
+            "node": "Callback Admin Notify?",
             "type": "main",
             "index": 0
           }
@@ -724,7 +724,7 @@
       "main": [
         [
           {
-            "node": "callback-admin-telegram-send",
+            "node": "Callback Admin Telegram Send",
             "type": "main",
             "index": 0
           }
@@ -735,7 +735,7 @@
       "main": [
         [
           {
-            "node": "callback-session-save",
+            "node": "Callback Session Save",
             "type": "main",
             "index": 0
           }
