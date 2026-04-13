@@ -1,0 +1,103 @@
+{
+  "resolver": {
+    "resolver_output": {
+      "result_mode": "error",
+      "products": [],
+      "metadata": {
+        "error_source": "convex"
+      },
+      "missing_fields": [],
+      "source": "convex"
+    }
+  },
+  "search": {
+    "count": 5,
+    "products": [
+      {
+        "_id": "jn7cpa072wsm65rhn885ey8bx58270yj",
+        "brand": null,
+        "condition": "New",
+        "id": "jn7cpa072wsm65rhn885ey8bx58270yj",
+        "images": [],
+        "in_stock": true,
+        "model": "TEST USB-C Cable",
+        "phoneType": "TEST USB-C Cable",
+        "price": 500,
+        "price_etb": 500,
+        "sellerId": "mickymobile",
+        "stockQuantity": 10,
+        "storage": ""
+      },
+      {
+        "_id": "jn7b9pvpmva26f4rh965e9f6zs81xz9q",
+        "brand": "iPhone",
+        "condition": null,
+        "id": "jn7b9pvpmva26f4rh965e9f6zs81xz9q",
+        "images": [],
+        "in_stock": true,
+        "model": "Hsm",
+        "phoneType": "Hsm",
+        "price": 2500,
+        "price_etb": 2500,
+        "sellerId": "mickymobile",
+        "stockQuantity": 13,
+        "storage": ""
+      },
+      {
+        "_id": "jn795z3ctbm5cchdv99gqmedds8260z6",
+        "brand": null,
+        "condition": "New",
+        "id": "jn795z3ctbm5cchdv99gqmedds8260z6",
+        "images": [],
+        "in_stock": true,
+        "model": "TEST AirPods Pro",
+        "phoneType": "TEST AirPods Pro",
+        "price": 8000,
+        "price_etb": 8000,
+        "sellerId": "mickymobile",
+        "stockQuantity": 5,
+        "storage": ""
+      },
+      {
+        "_id": "jn72hbv5afvjywk85etz5k363n8261m0",
+        "brand": null,
+        "condition": "Like New",
+        "id": "jn72hbv5afvjywk85etz5k363n8261m0",
+        "images": [
+          {
+            "order": 1,
+            "storageId": "kg2ahntzmkkt0txdyc2c6wm18s8269zb"
+          }
+        ],
+        "in_stock": true,
+        "model": "Iphone 12",
+        "phoneType": "Iphone 12",
+        "price": 13000,
+        "price_etb": 13000,
+        "sellerId": "mickymobile",
+        "stockQuantity": 3,
+        "storage": "256"
+      },
+      {
+        "_id": "jn7293nq0bqhd74zcmjxcwx831827524",
+        "brand": null,
+        "condition": "New",
+        "id": "jn7293nq0bqhd74zcmjxcwx831827524",
+        "images": [
+          {
+            "order": 1,
+            "storageId": "kg29p4s8fbmk3yckv74agbm8fd8270y1"
+          }
+        ],
+        "in_stock": true,
+        "model": "Iphone 16",
+        "phoneType": "Iphone 16",
+        "price": 58000,
+        "price_etb": 58000,
+        "sellerId": "mickymobile",
+        "stockQuantity": 1,
+        "storage": "256"
+      }
+    ]
+  }
+}
